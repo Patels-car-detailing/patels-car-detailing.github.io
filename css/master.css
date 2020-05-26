@@ -1,8 +1,12 @@
 .white-text {
-  color: white;
+  color: blue;
   padding-top: 20px;
 }
 
 .services{
   padding-left: 20px;
+}
+
+body {
+  background-color: black;
 }
